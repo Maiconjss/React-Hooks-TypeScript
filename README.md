@@ -17,4 +17,4 @@
 
 </ul>
 
-<h2>  Ao fim dos estudos percebi muitas vantagens em usar o TypeScript e irei adiciona-lo na maioria dos meus projetos, quando trabalhado junto com Hooks as vantagens são ainda maiores e nos evitam muitos problemas! </h2>
+<h1>  Ao fim dos estudos percebi muitas vantagens em usar o TypeScript e irei adiciona-lo na maioria dos meus projetos, quando trabalhado junto com Hooks as vantagens são ainda maiores e nos evitam muitos problemas! </h1>
